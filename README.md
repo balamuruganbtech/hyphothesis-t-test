@@ -1,2 +1,1 @@
-# hyphothesis-t-test
-Hypothesis, one sample testing, two sample testing, scipy
+# T-test-an-Correlation-using-python
